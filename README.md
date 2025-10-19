@@ -14,7 +14,7 @@ This project predicts whether a person has diabetes or not based on health param
 
 ## 📊 Results
 - Accuracy: ~75%
-- Evaluation: Precision, Recall, F1-scoresd
+- Evaluation: Precision, Recall, F1-scores
 
 ---
 
