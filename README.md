@@ -1,4 +1,4 @@
-#🩺 Diabetes Prediction Model
+##🩺 Diabetes Prediction Model
 
 This project predicts whether a person has diabetes or not based on health parameters using **Logistic Regression** (Machine Learning).
 
